@@ -18,13 +18,13 @@ public class ex002 {
     String numeroFormatado = df.format(resultado);
     
 
-    System.out.println(numeroFormatado);
+    System.out.println("Convertendo para real o valor seria: " + numeroFormatado + " Reais");
   }
 
   public static float conta (float a, float b) {
 
     return a * b;
-
+    kasdjhf
   }
 
 }
